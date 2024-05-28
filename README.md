@@ -74,3 +74,5 @@ Important Notes:
 Ensure all file paths are correctly configured, and any external resources (such as images or music) are accessible from the deployed environment.
 Thoroughly test your deployed application to verify functionality and performance in the online environment.
 
+Web Preview:
+![spotify_image](https://github.com/hvsingh876/SpotifyClone/assets/138708598/9419f7f9-f32e-42d7-8194-14e31ea2d08f)
